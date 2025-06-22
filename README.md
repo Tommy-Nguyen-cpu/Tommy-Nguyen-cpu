@@ -35,6 +35,7 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
 
 - **🕹️ Zone Zero**  
   A first-person horror stealth game where players must explore a maze, uncover hidden notes, and avoid a lurking, terrifying monster.
+  
 ![Note](gifs/NotePickup (1).gif)
 ![Enemy](gifs/QT (1).gif)
 
