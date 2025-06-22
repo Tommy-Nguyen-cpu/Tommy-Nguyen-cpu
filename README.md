@@ -48,6 +48,9 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
   A fully end-to-end smart assistant using VAD, TTS, and SadTalker. Currently under development—real-time animation is tricky, but I'm working on optimizing it!  
   👉 [Follow the progress on GitHub](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
 
+  ![sebastian](https://github.com/user-attachments/assets/11565074-6aee-4dd2-93fd-7bcaf3eb4fec)
+
+
 ---
 
 ## 🏆 Achievements
