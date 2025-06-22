@@ -1,4 +1,6 @@
-<center>![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical)</center>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" alt="Tommy's GitHub stats">
+</div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized)](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
 
