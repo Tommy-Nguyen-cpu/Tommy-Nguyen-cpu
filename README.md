@@ -67,8 +67,8 @@ The projects below are housed in private repositories, but if you're curious to 
 ## 😄 Fun Facts
 
 - 🐭 I once modeled an entire monster for a game using **just a laptop trackpad**... it was painful.
-- 🧠 I love digging deep into how AI works—from classical to generative—which is why I’m revisiting a lot of math (and because I’m a math nerd XD).
-- 💡 My dream project? A real working Iron Man suit powered by my Sebastian assistant.
+- 🧠 I love digging deep into how AI works—from classical to generative—which is why I’m revisiting a lot of math (and because I’m a math nerd 🤣).
+- 💡 My dream project? A real working Iron Man suit powered by my Sebastian assistant. Longshot, but better dream big, am I right?
 - 🛌 Outside of code and AI, I love writing stories, cooking, working out, and… sleeping. Lots of sleeping.
 
 ---
