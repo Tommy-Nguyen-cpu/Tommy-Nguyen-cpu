@@ -1,13 +1,10 @@
 ![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner=true&repo=SadTalker-CUDA-Optimized)](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized)](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
 
 # 👋 Greetings, Traveler!
 
 Welcome, brave soul, to my little corner of GitHub! You’ve wandered far through the digital woods—take a seat, grab a cup of tea 🍵, and stay a while.
-# 👋 Greetings, Traveler!
-
-Welcome to my GitHub! You’ve journeyed far across the vast digital lands—grab a cup of tea 🍵, rest your weary eyes, and take a look around.
 
 ---
 
