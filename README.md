@@ -23,7 +23,7 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
 ---
 
 ## 🧰 Tech Stack
-
+Here are a few of my most commonly used tech stack!
 **Languages:** Python, C#, Java, SQL, JavaScript  
 **Frameworks & Libraries:** .NET, React, FastAPI, TensorFlow, PyTorch, Scikit-learn  
 **Tools:** Git, GitHub, GitHub Actions, VS Code, Unity, Jupyter, Docker  
@@ -32,7 +32,7 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
 ---
 
 ## 🗂️ Featured Projects
-
+The projects below are housed in private repositories, but if you're curious to see them in action, feel free to reach out—I'd be happy to set up a quick demo!
 - **🕹️ Zone Zero**  
   A first-person horror stealth game where players must explore a maze, uncover hidden notes, and avoid a lurking, terrifying monster.
   
