@@ -1,59 +1,80 @@
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner=true&repo=SadTalker-CUDA-Optimized)](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
+
 # 👋 Greetings, Traveler!
 
 Welcome, brave soul, to my little corner of GitHub! You’ve wandered far through the digital woods—take a seat, grab a cup of tea 🍵, and stay a while.
+# 👋 Greetings, Traveler!
+
+Welcome to my GitHub! You’ve journeyed far across the vast digital lands—grab a cup of tea 🍵, rest your weary eyes, and take a look around.
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 A Bit About Me
 
-If you’ve arrived here via LinkedIn, some of this might sound familiar—but here's a fresh look anyway:
+Hey! I'm Tommy Nguyen—an Associate Software Engineer at **SS&C Eze**, where I work on feature development, workflow optimization, and good old-fashioned bug hunting for our OMS product.
 
-- 💼 I’m an Associate Software Engineer at **SS&C Eze**, where I work on feature development, workflow optimization, and bug squashing for our OMS (Order Management System) product.
-- 🎓 I graduated from **Wentworth Institute of Technology** with both a **Bachelor's** and a **Master's** in Computer Science. My Master's focused on **AI/ML**.
-- 🧪 During my academic journey, I contributed to research and co-authored papers submitted to top conferences like **NeurIPS**, **AAAI**, and **ICAIA**—huge thanks to Prof. Ergezer! 🙌
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical)
----
+I hold both a **Bachelor’s** and a **Master’s** degree in Computer Science from **Wentworth Institute of Technology**, with a specialization in **AI/ML** during my grad years. During that time, I published several papers and worked on a variety of research projects (shoutout to Professor Ergezer 🥳).
 
-## 🔍 What I'm Into
-
-I’m endlessly curious and love exploring a variety of tech and creative domains:
-
-- 🤖 AI & Machine Learning
-- 💹 Finance & Investing
-- 🎮 Game Development
-- 📐 Math & Problem Solving
-- ✨ Basically anything cool and shiny!
+I'm passionate about AI, finance, game development, mathematics, and just about anything that sparks curiosity. If it's new, shiny, and challenging—count me in!
 
 ---
 
-## 🚧 What I'm Working On
+## 🧰 Tech Stack
 
-Right now, I’m juggling a few side projects, including:
-
-- 🗣️ A personal assistant using **Voice Activity Detection (VAD)**, **Parler-TTS**, and **SadTalker**—a fully end-to-end interactive system.
-- 🎮 Building a ARG-based game(s).
-- 📚 Re-visiting some non-classic/classic AI and math topics like:
-  - Generative video & speech models
-  - Markov Decision Processes (MDPs)
-  - Support Vector Machines (SVMs)
-  - Linear Algebra & more!
+**Languages:** Python, C#, Java, SQL, JavaScript  
+**Frameworks & Libraries:** .NET, React, FastAPI, TensorFlow, PyTorch, Scikit-learn  
+**Tools:** Git, GitHub, GitHub Actions, VS Code, Unity, Jupyter, Docker  
+**Databases:** SQLite, PostgreSQL, Oracle SQL
 
 ---
 
-## 📬 Let's Connect!
+## 🗂️ Featured Projects
 
-I'm always open to chatting, collaborating, or helping out. Feel free to reach out!
+- **🕹️ Zone Zero**  
+  A first-person horror stealth game where players must explore a maze, uncover hidden notes, and avoid a lurking, terrifying monster.
 
-- **LinkedIn**: [Tommy Nguyen](https://www.linkedin.com/in/tommy-nguyen-/)
-- **Email**:  
-  - General inquiries: `tommyportfoliowit@gmail.com`  
-  - Professional/recruitment: `tnguyen.professional@gmail.com`
+- **📈 Watcher**  
+  A stock monitoring, analysis, and report generation platform that provides short- and long-term forecasts, sentiment analysis on company news, and stock recommendations (buy, hold, or sell).  
+  👉 [Check out the LinkedIn post here!](https://www.linkedin.com/posts/tommy-nguyen-_im-excited-to-share-that-my-stock-analysis-activity-7264046354107088896-wGjh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClSaxEBgNuvUkAK-rZuouH0hF3h37Sr3qE)
+
+- **🤖 Personal Assistant Sebastian (2025)**  
+  A fully end-to-end smart assistant using VAD, TTS, and SadTalker. Currently under development—real-time animation is tricky, but I'm working on optimizing it!  
+  👉 [Follow the progress on GitHub](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
 
 ---
 
-## 🎮 Want to Collaborate?
+## 🏆 Achievements
 
-Have a cool idea for a project or game? I'm totally open to teaming up! Just drop me a message and let’s make something awesome together. 😄
+- 🧠 Presented our paper _"Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects"_ at **NeurIPS 2024** in Vancouver, Canada!
+- 🎯 Our work _"AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models"_ was accepted to **AAAI** and presented in Philadelphia!  
+  👉 [Read it on arXiv](https://arxiv.org/abs/2412.16213)
+- 🕶️ Led the **ACM WIT Student Chapter** and hosted a successful VR Jam event.
+
+---
+
+## 😄 Fun Facts
+
+- 🐭 I once modeled an entire monster for a game using **just a laptop trackpad**... it was painful.
+- 🧠 I love digging deep into how AI works—from classical to generative—which is why I’m revisiting a lot of math (and because I’m a math nerd XD).
+- 💡 My dream project? A real working Iron Man suit powered by my Sebastian assistant.
+- 🛌 Outside of code and AI, I love writing stories, cooking, working out, and… sleeping. Lots of sleeping.
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** [Tommy Nguyen](https://www.linkedin.com/in/tommy-nguyen-/)  
+- **Email:**  
+  - General: `tommyportfoliowit@gmail.com`  
+  - Professional/Recruiters: `tnguyen.professional@gmail.com`
+
+---
+
+## 🤝 Open to Collaborate!
+
+Have a project idea? A spooky game? A cool research problem? I’m always happy to connect and collaborate. Drop me a message and let’s build something awesome! 🚀
 
 
 <!--
