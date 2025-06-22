@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" alt="Tommy's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized" alt="Tommy's SadTalker Repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=AdvIRL" alt="Tommy's AdvIRL Repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MDP-Stock-Prediction" alt="Tommy's Stock Prediction Repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MeetGreet" alt="Tommy's MeetGreet Repo">
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized)](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=AdvIRL)](https://github.com/Tommy-Nguyen-cpu/AdvIRL/tree/MultiView-Clean)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MDP-Stock-Prediction)](https://github.com/Tommy-Nguyen-cpu/MDP-Stock-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MeetGreet)](https://github.com/Tommy-Nguyen-cpu/MeetGreet)
 
 # 👋 Greetings, Traveler!
 
