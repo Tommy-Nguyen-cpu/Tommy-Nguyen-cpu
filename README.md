@@ -35,6 +35,9 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
 
 - **🕹️ Zone Zero**  
   A first-person horror stealth game where players must explore a maze, uncover hidden notes, and avoid a lurking, terrifying monster.
+  
+![Note](gifs/NotePickup (1).gif)
+![Enemy](gifs/QT (1).gif)
 
 - **📈 Watcher**  
   A stock monitoring, analysis, and report generation platform that provides short- and long-term forecasts, sentiment analysis on company news, and stock recommendations (buy, hold, or sell).  
