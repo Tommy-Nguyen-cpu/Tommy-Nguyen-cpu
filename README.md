@@ -23,7 +23,7 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
 ---
 
 ## 🧰 Tech Stack
-Here are a few of my most commonly used tech stack!
+Here are a few of my most commonly used technologies (some, but most definitely not all)!
 
 **Languages:** Python, C#, Java, SQL, JavaScript  
 **Frameworks & Libraries:** .NET, React, FastAPI, TensorFlow, PyTorch, Scikit-learn  
