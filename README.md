@@ -63,7 +63,7 @@ The projects below are housed in private repositories, but if you're curious to 
 
 ## 🏆 Achievements
 
-- 🧠 Presented our paper _"Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects"_ at **NeurIPS 2024** in Vancouver, Canada! [Check it out on arXiv!](https://arxiv.org/abs/2412.16213)
+- 🧠 Presented our paper _"Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects"_ at **NeurIPS 2024** in Vancouver, Canada! [Check it out on arXiv!](https://arxiv.org/abs/2412.02803)
 - 🎯 Our work _"AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models"_ was accepted to **AAAI** and presented in Philadelphia!  
   👉 [Read it on arXiv](https://arxiv.org/abs/2412.16213)
 - 🕶️ Led the **ACM WIT Student Chapter**, hosted a successful VR Jam event, and collaborated with the Formula E club!
