@@ -67,7 +67,7 @@ The projects below are housed in private repositories, but if you're curious to 
 - 🎯 Our work _"AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models"_ was accepted to **AAAI** and presented in Philadelphia!  
   👉 [Read it on arXiv](https://arxiv.org/abs/2412.16213)
 - _"One Noise to Rule Them All: Multi-View Adversarial Attacks with Universal Perturbation"_ was accepted into ICAIA, won first place for best paper, and is now available in Springer! [Feel free to check it out!](https://link.springer.com/series/16171)
-- 🕶️ Led the **ACM WIT Student Chapter**, hosted a successful VR Jam event, and collaborated with the Formula E club!
+- 🕶️ Led the **ACM WIT Student Chapter**, hosted a successful VR Jam event, and collaborated with the Formula E club! Our VR Jam was even listed in the [Our VR Jam was even listed in the ACM Chapter newsletter!](https://www.acm.org/chapters/chapter-newsletters/2023/09#7)
 
 ---
 
