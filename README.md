@@ -53,7 +53,7 @@ The projects below are housed in private repositories, but if you're curious to 
 <div align="center">
   <img src="gifs/sebastian_failed_attempt.gif" alt="Failed Attempt At Optimizing SadTalker">
 </div>
-_Caption: Failed attempt at optimizing SadTalker, we'll get them next time!_
+**Caption: Failed attempt at optimizing SadTalker, we'll get them next time!**
 
 
 ---
