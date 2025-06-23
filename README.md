@@ -46,12 +46,15 @@ The projects below are housed in private repositories, but if you're curious to 
   A stock monitoring, analysis, and report generation platform that provides short- and long-term forecasts, sentiment analysis on company news, and stock recommendations (buy, hold, or sell).  
   👉 [Check out the LinkedIn post here!](https://www.linkedin.com/posts/tommy-nguyen-_im-excited-to-share-that-my-stock-analysis-activity-7264046354107088896-wGjh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClSaxEBgNuvUkAK-rZuouH0hF3h37Sr3qE)
 
+  <a href="pdfs/watcher_example.pdf" class="image fit"></a>
+
 - **🤖 Personal Assistant Sebastian (2025)**  
   A fully end-to-end smart assistant using VAD, TTS, and SadTalker. Currently under development—real-time animation is tricky, but I'm working on optimizing it!  
   👉 [Follow the progress on GitHub](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
 
 <div align="center">
   <img src="gifs/sebastian_failed_attempt.gif" alt="Failed Attempt At Optimizing SadTalker">
+  
   <em>Caption: Failed attempt at optimizing SadTalker, we'll get them next time!</em>
 </div>
 
