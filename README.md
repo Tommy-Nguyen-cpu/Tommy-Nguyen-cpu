@@ -26,7 +26,7 @@ I'm passionate about AI, finance, game development, mathematics, and just about 
 Here are a few of my most commonly used technologies (some, but most definitely not all)!
 
 **Languages:** Python, C#, Java, SQL, JavaScript  
-**Frameworks & Libraries:** .NET, React, FastAPI, TensorFlow, PyTorch, Scikit-learn  
+**Frameworks & Libraries:** .NET, Numpy, Scikit-learn, TensorFlow, PyTorch, FastAPI
 **Tools:** Git, GitHub, GitHub Actions, VS Code, Unity, Jupyter, Docker  
 **Databases:** SQLite, PostgreSQL, Oracle SQL
 
