@@ -50,7 +50,10 @@ The projects below are housed in private repositories, but if you're curious to 
   A fully end-to-end smart assistant using VAD, TTS, and SadTalker. Currently under development—real-time animation is tricky, but I'm working on optimizing it!  
   👉 [Follow the progress on GitHub](https://github.com/Tommy-Nguyen-cpu/SadTalker-CUDA-Optimized)
 
-  ![sebastian](gifs/sebastian_failed_attempt.gif)
+<div align="center">
+  <img src="gifs/sebastian_failed_attempt.gif" alt="Failed Attempt At Optimizing SadTalker">
+</div>
+_Caption: Failed attempt at optimizing SadTalker, we'll get them next time!_
 
 
 ---
