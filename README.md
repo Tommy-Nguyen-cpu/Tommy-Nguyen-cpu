@@ -18,7 +18,7 @@ Hey! I'm Tommy Nguyen—an Associate Software Engineer at **SS&C Eze**, where I 
 
 I hold both a **Bachelor’s** and a **Master’s** degree in Computer Science from **Wentworth Institute of Technology**, with a specialization in **AI/ML** during my grad years. During that time, I published several papers and worked on a variety of research projects (shoutout to Professor Ergezer 🥳).
 
-I'm passionate about AI, finance, game development, mathematics, and just about anything that sparks curiosity. If it's new, shiny, and challenging—count me in!
+I'm passionate about AI, finance, game development, mathematics, and just about anything that sparks curiosity. If it's shiny and challenging—count me in!
 
 ---
 
