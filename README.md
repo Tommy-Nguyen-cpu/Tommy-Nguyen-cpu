@@ -27,6 +27,7 @@ Here are a few of my most commonly used technologies (some, but most definitely 
 
 **Languages:** Python, C#, Java, SQL, JavaScript  
 **Frameworks & Libraries:** .NET, Numpy, Scikit-learn, TensorFlow, PyTorch, FastAPI
+
 **Tools:** Git, GitHub, GitHub Actions, VS Code, Unity, Jupyter, Docker  
 **Databases:** SQLite, PostgreSQL, Oracle SQL
 
