@@ -5,6 +5,8 @@ Welcome, brave soul, to my little corner of GitHub! You’ve wandered far throug
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical) |
 |:--------------------------------------------------------:|:------------------------------------------------------------:|
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tommy-nguyen-cpu&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="GitHub Trophies" /></a>
 
 ### 📦 Featured Repositories
 
