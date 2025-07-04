@@ -2,15 +2,8 @@
 
 Welcome, brave soul, to my little corner of GitHub! You’ve wandered far through the digital woods—take a seat, grab a cup of tea 🍵, and stay a while.
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" 
-       alt="Tommy's GitHub stats" 
-       style="width: 400px; height: 200px; object-fit: cover;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical" 
-       alt="Tommy's Top Langs stats" 
-       style="width: 400px; height: 200px; object-fit: cover;" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" alt="Tommy's GitHub stats"> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical" alt="Tommy's Top Langs stats"> <br/>
  <br/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized" alt="Tommy's SadTalker Repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=AdvIRL" alt="Tommy's AdvIRL Repo">
