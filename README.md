@@ -4,6 +4,8 @@ Welcome, brave soul, to my little corner of GitHub! You’ve wandered far throug
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" alt="Tommy's GitHub stats"> <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical)](https://github.com/tommy-nguyen-cpu/github-readme-stats)
+  [![Tommy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tommy-nguyen-cpu)](https://github.com/tommy-nguyen-cpu/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized" alt="Tommy's SadTalker Repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=AdvIRL" alt="Tommy's AdvIRL Repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MDP-Stock-Prediction" alt="Tommy's Stock Prediction Repo">
