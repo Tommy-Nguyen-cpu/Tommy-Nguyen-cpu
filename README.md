@@ -2,11 +2,21 @@
 
 Welcome, brave soul, to my little corner of GitHub! You’ve wandered far through the digital woods—take a seat, grab a cup of tea 🍵, and stay a while.
 <div align="center">
+<div align="center">
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical) |
+## 📊 GitHub Overview
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical) |
 |:--------------------------------------------------------:|:------------------------------------------------------------:|
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tommy-nguyen-cpu&theme=radical" alt="GitHub Streak" /></a>
-<a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="GitHub Trophies" /></a>
+
+---
+
+## 🔥 Activity & Achievements
+
+| [![Streak](https://github-readme-streak-stats.herokuapp.com?user=tommy-nguyen-cpu&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![Trophies](https://github-profile-trophy.vercel.app/?username=tommy-nguyen-cpu&theme=radical&no-frame=true&column=4)](https://github-profile-trophy.vercel.app) |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+</div>
 
 ### 📦 Featured Repositories
 
