@@ -1,7 +1,7 @@
 # 👋 Greetings, Traveler!
 
 Welcome, brave soul, to my little corner of GitHub! You’ve wandered far through the digital woods—take a seat, grab a cup of tea 🍵, and stay a while.
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" alt="Tommy's GitHub stats"> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical" alt="Tommy's Top Langs stats"> <br/>
  <br/>
