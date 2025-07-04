@@ -6,7 +6,7 @@ Welcome, brave soul, to my little corner of GitHub! You’ve wandered far throug
 
 ## 📊 GitHub Overview
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical&theme=radical) |
 |:--------------------------------------------------------:|:------------------------------------------------------------:|
 
 ---
