@@ -2,13 +2,20 @@
 
 Welcome, brave soul, to my little corner of GitHub! You’ve wandered far through the digital woods—take a seat, grab a cup of tea 🍵, and stay a while.
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical" alt="Tommy's GitHub stats"> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical" alt="Tommy's Top Langs stats"> <br/>
- <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=SadTalker-CUDA-Optimized" alt="Tommy's SadTalker Repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=AdvIRL" alt="Tommy's AdvIRL Repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MDP-Stock-Prediction" alt="Tommy's Stock Prediction Repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&show_owner=true&repo=MeetGreet" alt="Tommy's MeetGreet Repo">
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-nguyen-cpu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-nguyen-cpu&layout=donut-vertical) |
+|:--------------------------------------------------------:|:------------------------------------------------------------:|
+
+### 📦 Featured Repositories
+
+| [SadTalker-CUDA-Optimized](https://github.com/tommy-nguyen-cpu/SadTalker-CUDA-Optimized) | [AdvIRL](https://github.com/tommy-nguyen-cpu/AdvIRL) |
+|:-------------------------------------------------------------------------------------:|:--------------------------------------------------:|
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&repo=SadTalker-CUDA-Optimized" alt="SadTalker"> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&repo=AdvIRL" alt="AdvIRL"> |
+
+| [MDP-Stock-Prediction](https://github.com/tommy-nguyen-cpu/MDP-Stock-Prediction) | [MeetGreet](https://github.com/tommy-nguyen-cpu/MeetGreet) |
+|:--------------------------------------------------------------------------------:|:---------------------------------------------------------:|
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&repo=MDP-Stock-Prediction" alt="Stock Prediction"> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-nguyen-cpu&repo=MeetGreet" alt="MeetGreet"> |
+
 </div>
 
 ---
